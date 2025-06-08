@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Slope
+  - bigBonus
+  - smallBonus
+  - cloneBonus
+  - cloneBonus4
+  - Character
+  - Obstacle
+  - Gear
+  - DieZone
+  - YskBonus
+  - slowBonus
+  - Bomb
+  - dropstone
+  - trigger1
+  - trigger2
+  - dropstone2
+  - stick
+  - backgr
+  - dropstone3
+  - trigger3
+  - water
+  - Ground
+  - trigger_shake1
+  - dropstone_dop_object
+  - trigger4
+  - Metal
+  - trigger5
+  - trigger6
+  - NoSound
+  - CheckPoint
+  - lvl2_bomb_1
+  - lvl3dropHeroTrigger
+  - diesChrclvl3
+  - lvl3DinObj
+  - DieZoneStatic
+  - DieZoneDynamic
+  - Stone
+  - Tree
+  - DieBird
+  - trigger7
+  - Chain
+  - DestroyStickyBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - dropstone
+  - ceiling
+  - Ground
+  - Post processing
+  - bonusPoin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bckBack
+    uniqueID: 538003191
+    locked: 0
+  - name: otherObjct_light
+    uniqueID: 1160224103
+    locked: 0
+  - name: otherObjct
+    uniqueID: 1232565059
+    locked: 0
+  - name: lightObject
+    uniqueID: 2346801311
+    locked: 0
+  - name: grass
+    uniqueID: 3409280937
+    locked: 0
+  - name: fog
+    uniqueID: 3424533381
+    locked: 0
+  - name: three
+    uniqueID: 2774633457
+    locked: 0
+  - name: ground
+    uniqueID: 364075905
+    locked: 0
+  - name: Hero
+    uniqueID: 1034874305
+    locked: 0
+  - name: endlvlPipe
+    uniqueID: 1534465313
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

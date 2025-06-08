@@ -1,0 +1,17 @@
+*.a filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
+
+# Универсальные настройки
+* text=auto
+
+# Явно указать формат для конкретных типов файлов
+*.txt text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Исключить бинарные файлы
+*.png binary
+*.zip binary
+*.dll binary
